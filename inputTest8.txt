@@ -1,0 +1,165 @@
+149
+
+44 68 usable BothMatch  
+
+100 90 usable BothMatch
+
+110 120 usable BothMatch
+
+183 133 usable BothMatch
+
+170 140 usable BothMatch
+
+188 155 usable BothMatch
+
+51 71 bent BothMatch
+
+97 97 bent BothMatch
+
+107 117 bent BothMatch
+
+171 131 bent BothMatch
+
+180 160 bent BothMatch
+
+51 71 usable OneMatch
+
+97 97 usable OneMatch
+
+107 117 usable OneMatch
+
+171 131 usable OneMatch
+
+180 160 usable OneMatch
+
+51 71 usable NoMatch
+
+97 97 usable NoMatch
+
+107 117 usable NoMatch
+
+171 131 usable NoMatch
+
+180 160 usable NoMatch
+
+44 
+
+44 68 
+
+44 68 usable 
+
+103 256 usable BothMatch extra stuff
+
+101 235 somthingElse BothMatch
+
+104 233 usable somethingElse
+
+256 236 usable BothMatch
+
+90 256 usable BothMatch
+
+-1 253 usable BothMatch
+
+104 -1 usable BothMatch 
+
+28 68 usable BothMatch
+
+66 90 usable BothMatch
+
+144 120 usable BothMatch
+
+225 155 usable BothMatch
+
+55 23 usable BothMatch
+
+108 78 usable BothMatch
+
+120 105 usable BothMatch
+
+190 126 usable BothMatch
+
+196 190 usable BothMatch
+
+255 20 usable BothMatch
+
+255 77 usable BothMatch
+
+255 105 usable BothMatch
+
+225 126 usable BothMatch
+
+255 222 usable BothMatch
+
+22 255 usable BothMatch
+
+77 255 usable BothMatch
+
+165 255 usable BothMatch
+
+255 190 usable BothMatch
+
+255 255 usable BothMatch
+
+255 255 usable BothMatch 
+
+255 254 usable BothMatch
+
+255 255 usable BothMatch 
+
+255 254 usable BothMatch
+
+174 150 usable BothMatch
+
+177 150 usable BothMatch 
+
+177 150 usable BothMatch 
+
+174 150 usable BothMatch
+
+177 150 usable BothMatch 
+
+174 150 usable BothMatch
+
+177 150 usable BothMatch 
+
+174 150 usable BothMatch
+
+177 150 usable BothMatch 
+
+176 150 usable BothMatch
+
+177 150 usable BothMatch 
+
+174 150 usable BothMatch
+
+177 150 usable BothMatch 
+
+174 150 usable BothMatch
+
+177 150 usable BothMatch 
+
+174 150 usable BothMatch
+
+177 150 usable BothMatch 
+
+174 150 usable BothMatch
+
+177 150 usable BothMatch 
+
+174 150 usable BothMatch
+
+177 150 usable BothMatch 
+
+177 150 usable BothMatch 
+
+174 150 usable BothMatch
+
+177 150 usable BothMatch 
+
+174 150 usable BothMatch
+
+177 150 usable BothMatch 
+
+177 150 usable BothMatch 
+
+174 150 usable BothMatch
